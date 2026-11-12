@@ -1,9 +1,7 @@
 # rest-reminder
 
-> **仓库说明**：GitHub 为主库，对外开源展示 → https://github.com/taikun098/
-rest-reminder
-> Gitee 为国内镜像站，访问加速用 → https://gitee.com/wjk098/
-rest-reminder
+> **仓库说明**：GitHub 为主库，对外开源展示 → https://github.com/taikun098/rest-reminder
+> Gitee 为国内镜像站，访问加速用 → https://gitee.com/wjk098/rest-reminder
 > 两边内容保持一致；Issue / PR 请走 GitHub，Gitee 侧不单独接受合并。
 
 Windows 桌面休息提醒 / 家长控制小工具。
